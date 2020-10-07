@@ -1,2 +1,2 @@
-# QVIBE
+# PhantumQ
 Currently digital audio recording technologies only allow you to record one version of a song or track at a time. But what if you could record a track that changed every time you listened to it! In this project we will develop a framework for recording multidimensional music recordings. This will involve encoding multiple digital audio signals into quantum states via amplitude and/or phase encoding and then putting them in superposition. We will then have to determine what operations are required in order for the system to determine how to combine/rearrange the different audio samples in a form and structure that is meaningful and insightful!
